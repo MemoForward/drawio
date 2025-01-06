@@ -1,9 +1,29 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="第 1 页" id="-SvgyCy2IzpXdDudazZ9">
-    <mxGraphModel>
+    <mxGraphModel dx="2874" dy="698" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lsH35G5tqOY0wsXPOi4R-5" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="-416" y="400" width="1150" height="944" as="geometry">
+            <mxRectangle x="20" y="400" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lsH35G5tqOY0wsXPOi4R-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lsH35G5tqOY0wsXPOi4R-5">
+          <mxGeometry x="334" width="470" height="942" as="geometry" />
+        </mxCell>
+        <mxCell id="lsH35G5tqOY0wsXPOi4R-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lsH35G5tqOY0wsXPOi4R-5">
+          <mxGeometry x="333" width="471" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lsH35G5tqOY0wsXPOi4R-11" value="嫁给我" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="lsH35G5tqOY0wsXPOi4R-5">
+          <mxGeometry x="334" width="142" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="lsH35G5tqOY0wsXPOi4R-12" value="婚礼记录" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="lsH35G5tqOY0wsXPOi4R-5">
+          <mxGeometry x="476" width="185" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="lsH35G5tqOY0wsXPOi4R-13" value="祝福板" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="lsH35G5tqOY0wsXPOi4R-5">
+          <mxGeometry x="662" width="142" height="81" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
